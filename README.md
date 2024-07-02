@@ -17,7 +17,7 @@ Groq API key
 Installation
 
 Clone this repository:
-Copygit clone https://github.com/yourusername/crewai-support-system.git
+Copygit clone https://github.com/raselai/CS-Multi-Agents.git
 cd crewai-support-system
 
 Install the required dependencies:
